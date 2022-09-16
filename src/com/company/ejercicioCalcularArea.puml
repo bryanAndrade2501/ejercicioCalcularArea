@@ -1,0 +1,9 @@
+@startuml
+hide circle
+
+
+abstract class Figura
+class Circulo
+class Figura
+
+@enduml
